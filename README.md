@@ -3,8 +3,6 @@ AfricasTalkingGateway-Python
 
 A Python module for communicating with the AfricasTalking API
 
-# AfricasTalkingGateway-python
-
 [Click here to read the full
 documentation.](https://www.africastalking.com/tutorials/sendsms/python "Africastalking
 Python library documentation")
